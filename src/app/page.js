@@ -20,13 +20,12 @@ export default function Home() {
 
       <div className="max-4-md mx-auto mb-4">
         <h2 className="text-4xl font-bold ">Skills:</h2>
-        <p>HTML, CSS, JavaScript, React, Next.js</p>
-        <p>Java, Python, php, </p>
-        <p>Git, GitHub</p>
-        <p>Agile, Scrum</p>
-        <p>Microsoft Office</p>
-        <p>TroubleShooting, Problem Solving</p>
-        <p>UML</p>
+        <p>
+          HTML, CSS, JavaScript, React, Next.js Java, Python, php, Git, GitHub
+        </p>
+        <p>
+          Agile, Scrum Microsoft Office TroubleShooting, Problem Solving, UML
+        </p>
       </div>
 
       <h2 className="text-4xl font-bold">Education</h2>

@@ -41,10 +41,10 @@ export default function Home() {
         <div className="max-4-md mx-auto mb-4 mt-4">
           <h2 className="text-4xl">Project 3: Hotel Booking App</h2>
           <p>
-            This was a project i made in my web development module using HTML,
-            CSS and PHP. It was a group project with 2 other students. It was
-            made in 3 weeks. It was a hotel booking app with login and register
-            functionality
+            This was a project i made as a team in my web development module
+            using HTML, CSS and PHP. It was a group project with 2 other
+            students. It was made in 3 weeks. It was a hotel booking app with
+            login and register functionality
           </p>
           <a
             href="https://github.com/JayMurphy45/Hotel_Booking"
@@ -65,6 +65,37 @@ export default function Home() {
           </p>
           <a
             href="https://github.com/JayMurphy45/krispy-creme"
+            className="text-blue-400"
+          >
+            GitHub Link
+          </a>
+        </div>
+
+        <div className="max-4-md mx-auto mb-4 mt-4">
+          <h2 className="text-4xl">Project 5: MyCyberCàfe</h2>
+          <p>
+            This was a Major group project in my third year of college the idea
+            was to make a webapp that manages screentime it took the epoc time
+            and displayed it into a graph using the open source library called
+            chart.js
+          </p>
+          <a
+            href="https://github.com/JayMurphy45/krispy-creme"
+            className="text-blue-400"
+          >
+            GitHub Link
+          </a>
+        </div>
+        <div className="max-4-md mx-auto mb-4 mt-4">
+          <h2 className="text-4xl">Project 6: Flutter chat application</h2>
+          <p>
+            To gain more experience with flutter i made a chat application that
+            connects to a api to load images that can be sent in a chat
+            application. I got this tutorial from a LinkedIn learning course
+            called Flutter Essential Training from pooja bhaumik.
+          </p>
+          <a
+            href="https://github.com/JayMurphy45/FlutterChatApp"
             className="text-blue-400"
           >
             GitHub Link
